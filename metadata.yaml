@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '43433'
     url: http://www.gutenberg.org/2009/agents/43433
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45746#Learning-to-Be-a-Schoolmaster
 gutenberg_issued: '2014-05-24'
 gutenberg_type: Text
 identifiers:
